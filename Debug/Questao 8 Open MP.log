@@ -1,0 +1,3 @@
+﻿  Questao 8 Open MP.cpp
+C:\Users\Yuji\source\repos\Questao 8 Open MP\Questao 8 Open MP.cpp(26,27): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  Questao 8 Open MP.vcxproj -> C:\Users\Yuji\source\repos\Questao 8 Open MP\Debug\Questao 8 Open MP.exe
